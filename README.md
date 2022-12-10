@@ -1,2 +1,0 @@
-# EagleLibs
-personal eagle libs
